@@ -2,11 +2,11 @@
 
 ## Overview
 
-### WHat is this app for?
+### What is this app for?
 
-This is a Todo app. It helps useres keep track of any things that they have to do.
+This is a Todo app. It helps users keep track of any things that they have to do.
 
-### WHat does it do?
+### What does it do?
 
 This app will allow users to register and login. Once the users have done that, they'll be able to create items to add to their todo list. Once they've created their todo list, they'll be able to update the status of each item and even delete items!
 
